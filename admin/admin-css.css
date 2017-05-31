@@ -1,0 +1,15 @@
+/*liste d'implantations*/
+.post-type-alertes .voyant {
+    width:10px;
+    height:10px;
+    border-radius:50%;  
+}
+
+.post-type-alertes .voyant.fonctionnement { background-color:green; }
+.post-type-alertes .voyant.travaux { background-color:orange; }
+.post-type-alertes .voyant.panne { background-color:red; }
+ 
+
+.post-type-alertes .term-description-wrap{
+    display:none;
+}
